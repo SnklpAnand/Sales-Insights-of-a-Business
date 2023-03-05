@@ -1,4 +1,4 @@
-# P2-Sales-Insights-of-a-Business
+# Sales Insights of a Business
 
 Following data operations can be seen in this projects :
     Data Manipulation, Importing & Cleaning Data, Data Visualization, Case Study
