@@ -7,3 +7,6 @@
 ● **ACTION** - Analyze the database using SQL and integrate it with Power BI for ETL and data cleaning operations, including currency normalization, handling invalid values, and other necessary data preparation tasks.
 
 ● **RESULT** - Developed a sales trend dashboard that provided actionable insights for informed decision-making which will result in revenue growth of at least 7% in the upcoming quarter.
+
+
+Click on the following **LINK** to view the dashboard : [https://app.powerbi.com/view?r=eyJrIjoiZWI5OWNiMWYtMzZmNi00YjQxLWIwYjMtYWNhMDE3YzZhYzZhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9]
